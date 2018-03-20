@@ -7,3 +7,11 @@
 
 
 # Supervised Learning
+
+
+# Reinforcement Learning
+
+
+
+# Sweet blogs and websites
+* [Towards Data Science](https://towardsdatascience.com/data-science/home)
