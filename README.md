@@ -10,6 +10,7 @@
 * (Normalized) [Mutual Information](https://en.wikipedia.org/wiki/Mutual_information)
   * [A brief explanation](https://course.ccs.neu.edu/cs6140sp15/7_locality_cluster/Assignment-6/NMI.pdf)
   * Requierd knowledge : the [Shannon Entropy](https://en.wikipedia.org/wiki/Entropy_(information_theory)) with one [example](http://www.bearcave.com/misl/misl_tech/wavelets/compression/shannon.html)
+* (Adjusted) [RAND](https://en.wikipedia.org/wiki/Rand_index)
 
 ## Linear Decomposition Methods
 * [PCA](https://en.wikipedia.org/wiki/Principal_component_analysis)
@@ -38,3 +39,9 @@
 
 ## Courses
 * [Every single Machine Learning course on the internet, ranked by your reviews](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
+
+# APIs
+
+## Python
+* [Pandas Benchmarking](https://github.com/mm-mansour/Fast-Pandas)
+* [Visualization](http://seaborn.pydata.org/index.html)
